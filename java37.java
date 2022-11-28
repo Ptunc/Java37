@@ -25,3 +25,4 @@ public class java37 {
         return desen2(sonuc + 5, sayi);
     }
 }
+
